@@ -1,1 +1,1 @@
-print("Hola, esto es python")
+print("Hola, esto es pytho y voy a aprender este lenguaje")
